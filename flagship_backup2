@@ -4,38 +4,38 @@ for (i=1;i<5;i++) do
 ./flagship1-$1_backup
 done
 
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/3rd_result.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/3rd_result.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/3rd_result.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/3rd_result.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/3rd_result.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/3rd_result.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/3rd_result.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/3rd_result.sql
 
 
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/3rd_result_bak.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/3rd_result_bak.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/3rd_result_bak.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/3rd_result_bak.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/3rd_result_bak.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/3rd_result_bak.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/3rd_result_bak.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/3rd_result_bak.sql
 
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/affect.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/affect.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/affect.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/affect.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/affect.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/affect.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/affect.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/affect.sql
 
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/log.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/log.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/log.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/log.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/log.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/log.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/log.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/log.sql
 
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/talk_history.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/talk_history.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/talk_history.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/talk_history.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/talk_history.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/talk_history.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/talk_history.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/talk_history.sql
 
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/test_mode.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/test_mode.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/test_mode.sql
-/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/test_mode.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/test_mode.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/test_mode.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/test_mode.sql
+/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/test_mode.sql
 
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-1/19-09-30/flagship/user.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-2/19-09-30/flagship/user.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-3/19-09-30/flagship/user.sql
-#/usr/bin/mysql -uroot -pki4ai5431 flagship < ./Flagship1-4/19-09-30/flagship/user.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-1/19-09-30/flagship/user.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-2/19-09-30/flagship/user.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-3/19-09-30/flagship/user.sql
+#/usr/bin/mysql -uroot -p****** flagship < ./Flagship1-4/19-09-30/flagship/user.sql
